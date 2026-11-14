@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Health New Zealand API Standards Conformance
+authors:
+- name: Middleware New Zealand
+repository-code: https://github.com/edithatogo/api-standards-conformance
+url: https://github.com/edithatogo/api-standards-conformance
+references:
+- type: software
+  title: Health New Zealand API Standards Conformance
+  authors:
+  - name: Middleware New Zealand
+  repository-code: https://github.com/tewhatuora/api-standards-conformance
+  url: https://github.com/tewhatuora/api-standards-conformance
